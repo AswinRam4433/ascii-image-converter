@@ -7,6 +7,8 @@ Welcome to **ASCII-fy**, the one-stop solution to take your overachieving images
 ## **What Does It Do?**  
 This Python script takes any image and processes it through a sophisticated (read: moderately clever) algorithm to produce ASCII art in varying sizes. Now you can marvel at the beauty of your favorite office manager, pet, or poorly lit selfie—all in the aesthetic of 1980s computer terminals.  
 
+ ![ASCII Dwight](https://github.com/AswinRam4433/ascii-image-converter/blob/main/dwight_ascii.png) 
+
 ## **Why ASCII Art?**  
 - It’s retro.  
 - It’s cool.  
